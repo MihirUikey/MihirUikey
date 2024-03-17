@@ -1,4 +1,5 @@
 ### 👋 Hi, I'm Mihir, a passionate software developer from Pune.
+<br>
 💻 Currently learning the fundamentals of programming and exploring various technologies.
 🤖 Excited about diving deeper into AI and ML to understand their applications and potential.
 🚀 Actively contributing to open-source projects and exploring the latest trends in tech.
